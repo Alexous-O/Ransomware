@@ -15,7 +15,8 @@ This project is for the purpose of my studies, to learn how it works
 
 
 ### After running the script 
-[![After](https://github.com/user-attachments/assets/cb3e1377-411f-4bc6-94fb-845cfcf5288d)
+![After](https://github.com/user-attachments/assets/417754b5-ad0b-4262-9fbe-e8d4f1355084)
+
 
 
 ## Use
