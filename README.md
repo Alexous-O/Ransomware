@@ -4,9 +4,7 @@
 
 ## Project Description 
 
-This project aims to explain the principle of ransomware
-
-This project is for the purpose of my studies, to learn how it works
+This project aims to explain the principle of ransomware and I developed it as part of my studies, to learn how it works.
 
 ## Screenshot 📸
 
