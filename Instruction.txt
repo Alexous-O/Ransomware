@@ -1,0 +1,6 @@
+Ce projet a été développé par Alexandre O.
+
+Veuillez lire et comprendre le projet avant de lancer, une mauvaise manipulation et tout vos disques sont chiffrés
+
+le "D:\\test" c'est l'emplacement de test pour chiffrer les données
+
